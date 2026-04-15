@@ -1,0 +1,17 @@
+mediapipe==0.10.7
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Dependencias para análisis biomecánico:
+# - mediapipe: Detección de poses en tiempo real
+# - opencv-python: Procesamiento de video/cámara
+# - numpy: Cálculos matemáticos (ángulos)
+
+# Instalación:
+# pip install -r requirements.txt
+#
+# NOTAS:
+# - Requiere cámara web
+# - Compatible Python 3.8+
+# - ~500MB descarga inicial (MediaPipe)
+
